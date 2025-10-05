@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+#siteTitle {
+}
+#siteTitle h1 {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    color: #8F1AE7;
+    font-size: 3em;
+    font-variant: normal;
+    text-decoration: none;
+}
+.titleImage {
+    border: thick solid #E83135;
+    border-radius: 50px;
+    /* [disabled]position: relative; */
+    /* [disabled]left: 25%; */
+}
+.ruleTitle {
+    color: #FF0004;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.75);
+}
+.ruleText {
+    color: rgba(0,0,0,1.00);
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.emphasisRed {
+    color: rgba(255,0,4,1.00);
+    display: inline;
+}
+
+.center {
+	;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.imgSet {
+    width: 30%;
+    height: 30%;
+}
+.ruleSection {
+    width: 33%;
+    float: left;
+}
+.ruleSection img {
+    width: 100%;
+}
